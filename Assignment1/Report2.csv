@@ -1,0 +1,13 @@
+﻿Region,Order_Status,Sum of Amount
+Americas,Cancelled,427475.25
+Americas,Delivered,8511129
+Americas,Placed,556096.5
+Americas,Shipped,1060150.5
+APAC,Cancelled,1137397.5
+APAC,Delivered,18951021
+APAC,Placed,1023347.25
+APAC,Shipped,2483966.25
+Europe,Cancelled,514435.5
+Europe,Delivered,8407332
+Europe,Placed,629799.75
+Europe,Shipped,990238.5
